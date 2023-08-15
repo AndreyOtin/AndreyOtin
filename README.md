@@ -7,8 +7,7 @@
 ### Из интересного, что не вместилось в закреп:
 * 🖥️  Back на nestJS https://github.com/AndreyOtin/comp-api
 * 🖥️  Проект на ванильном js + ОПП https://github.com/AndreyOtin/big-trip
-* 🖥️  Проекты на ванильном js 🤦
-** [https://github.com/AndreyOtin/big-trip](https://github.com/AndreyOtin/keksobooking) ** https://github.com/AndreyOtin/kekstogram **
+* 🖥️  Проект на ванильном js 🤦 [https://github.com/AndreyOtin/big-trip](https://github.com/AndreyOtin/keksobooking)
 
 
 ### Skills
