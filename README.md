@@ -5,6 +5,8 @@
 ### В каждом проекте прикреплена ссылка на deploy в about секции
 
 ### Из интересного, что не вместилось в закреп:
+* 🖥️  Копия дискорда на минималках Nextjs, Authjs, Prisma(Postgres), shadecn UI, socket io [https://github.com/AndreyOtin/comp-api](https://github.com/AndreyOtin/discord-clone)
+* 🖥️  Перетаскиваемые тудушки Nextjs, react-beautiful-dnd, Redis [https://github.com/AndreyOtin/comp-api](https://github.com/AndreyOtin/todos-nextjs)
 * 🖥️  Back на nestJS https://github.com/AndreyOtin/comp-api
 * 🖥️  Проект на ванильном js + ОПП https://github.com/AndreyOtin/big-trip
 * 🖥️  Проект на ванильном js 🤦 [https://github.com/AndreyOtin/big-trip](https://github.com/AndreyOtin/keksobooking)
